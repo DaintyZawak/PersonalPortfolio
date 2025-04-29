@@ -356,8 +356,7 @@ button:hover {
         flex-wrap: wrap;
         justify-content: space-between;
         align-items: center;
-        width: 80%;
-        
+        width: 80%; 
         margin: auto;
     }
     
@@ -398,7 +397,7 @@ button:hover {
     
     .projectWrap {
         width: 250px;
-        height: 250px;
+        height: 400px;
         background-color: #fcc4c4;
         border-radius: 30px;
         margin: 20px;
@@ -427,8 +426,6 @@ button:hover {
         padding: 50px;
     }
    
-    
-    
    
     
 }
